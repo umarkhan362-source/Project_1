@@ -15,7 +15,7 @@
  
 ### Setup 
 Open the Kaggle notebook or run locally: 
-pip install pandas numpy matplotlib seaborn# Project--1
+pip install pandas numpy matplotlib seaborn# Project_1
 
 ## Week 2: Building ML Models
 
